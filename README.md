@@ -11,3 +11,5 @@ A demo application that shows how to create a launch page using Mongo, Express, 
 - Run the tests using npm test from the server directory
 
 Please submit issues and pull requests :)
+
+(edited with prose.io, nice and clean, Ⓢ)
